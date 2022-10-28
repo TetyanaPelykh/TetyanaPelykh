@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @TetyanaPelykh
-- 👀 I’m interested in travel around the world 
-- 🌱 I’m currently learning telecommunications engineering 
+- 🌱 I’m currently studying technology engineering and telecommunications services at the University.
+- 👀 I’m interested in programming as it is my favorite subject in college. Currently I have been taught the fundamentals of programming in C and Java.
+- ✨ Self learning in my spare time I am learning Python, SQL, HTML, CSS, and more 
 
 
-<!---
-TetyanaPelykh/TetyanaPelykh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
